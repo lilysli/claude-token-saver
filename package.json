@@ -1,0 +1,9 @@
+{
+  "name": "claude-token-saver",
+  "version": "1.0.0",
+  "description": "Claude Code UserPromptSubmit hook for prompt triage and refinement",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
